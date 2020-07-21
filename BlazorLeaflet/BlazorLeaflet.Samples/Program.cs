@@ -1,7 +1,7 @@
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Hosting;
 
-namespace BlazorLeaflet.Samples
+namespace BlazorLeaflet.Wasm
 {
     public class Program
     {
