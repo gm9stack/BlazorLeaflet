@@ -3,18 +3,20 @@
   <PropertyGroup>
     <TargetFramework>netstandard2.1</TargetFramework>
     <RazorLangVersion>3.0</RazorLangVersion>
-    <Version>0.4.0-alpha</Version>
-    <Authors>Mihai Stan</Authors>
-    <Company />
-    <Description>BlazorLeaflet is a wrapper offering easy-to-use Blazor components that expose the Leaflet API in C#.</Description>
-    <Copyright>Mihai Stan</Copyright>
+    <Version>0.1.0-alpha</Version>
+    <Authors>4CG</Authors>
+    <Company>4CG</Company>
+    <Description>SignalHub Leaflet that uses the BlazerLeaflet wrapper over the leaflet API.</Description>
+    <Copyright>4CG</Copyright>
     <PackageProjectUrl></PackageProjectUrl>
-    <RepositoryUrl>https://github.com/Mehigh17/BlazorLeaflet</RepositoryUrl>
+    <RepositoryUrl>https://github.com/gm9stack/BlazorLeaflet</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
-    <PackageTags>blazor, leaflet, c#, js, interop</PackageTags>
+    <PackageTags>signalhub</PackageTags>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <PackageLicenseExpression></PackageLicenseExpression>
     <LangVersion>8</LangVersion>
+    <PackageId>SignalHub.Leaflet</PackageId>
+    <Product>SignalHub.Leaflet</Product>
   </PropertyGroup>
 
 
